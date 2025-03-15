@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/india-debt-tracker/static/css/main.f855e6bc.css",
+    "main.js": "/india-debt-tracker/static/js/main.3496d0e1.js",
+    "static/js/453.61b2ffc6.chunk.js": "/india-debt-tracker/static/js/453.61b2ffc6.chunk.js",
+    "static/media/logo.svg": "/india-debt-tracker/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/india-debt-tracker/index.html",
+    "main.f855e6bc.css.map": "/india-debt-tracker/static/css/main.f855e6bc.css.map",
+    "main.3496d0e1.js.map": "/india-debt-tracker/static/js/main.3496d0e1.js.map",
+    "453.61b2ffc6.chunk.js.map": "/india-debt-tracker/static/js/453.61b2ffc6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.3496d0e1.js"
+  ]
+}

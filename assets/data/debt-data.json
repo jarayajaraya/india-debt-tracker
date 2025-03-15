@@ -1,0 +1,19 @@
+{
+  "updated": "2024-02-20",
+  "national": {
+    "totalDebt": 150000000,
+    "gdpRatio": 34.5
+  },
+  "states": [
+    {
+      "name": "Maharashtra",
+      "debt": 650000,
+      "perCapita": 45000
+    },
+    {
+      "name": "Uttar Pradesh",
+      "debt": 480000,
+      "perCapita": 32000
+    }
+  ]
+}
